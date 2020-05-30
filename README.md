@@ -1,6 +1,6 @@
 # comma_speed_challenge
 
-My take at the comma.ai speed challenge
+My attempt at the comma.ai speed challenge
 Get the data for the project here: https://github.com/commaai/speedchallenge
 
 Their README:
